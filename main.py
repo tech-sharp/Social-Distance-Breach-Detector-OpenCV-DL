@@ -130,4 +130,4 @@ while True:
 
 fps.stop()
 print("[INFO]Elapsed time: {:.2f}".format(fps.elapsed()))
-print("[INFO]Approx. FPS:  {:.2f}".format(fps.fps()))
+print("[INFO]Approx. FPS:  {:.2f}".format(fps.fps()))
