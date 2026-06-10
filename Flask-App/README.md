@@ -50,4 +50,4 @@ Local host live streaming using Flask - Python Web Framework
 ## References
 
 1. https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
-2. https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
+2. https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
