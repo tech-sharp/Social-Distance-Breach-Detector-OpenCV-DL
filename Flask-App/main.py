@@ -145,4 +145,4 @@ def gen():
 def video_feed():
     #Video streaming route. Put this in the src attribute of image tag in html code
     return Response(gen(), mimetype='multipart/x-mixed-replace; boundary=frame')
-
+
